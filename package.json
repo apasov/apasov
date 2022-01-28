@@ -1,0 +1,17 @@
+{
+  "name": "apasov",
+  "version": "1.0.0",
+  "description": "apasov",
+  "main": "index.js",
+  "repository": "https://github.com/apasov/apasov.git",
+  "author": "Ilya Apasov <apasov@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "c": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "fix": "prettier --write \"**/*.*\"",
+    "up": "yarn upgrade-interactive && ncu -i && yarn"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
