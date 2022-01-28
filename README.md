@@ -13,11 +13,7 @@
    </tr>
    <tr>
       <td>
-<h3>JAVASCRIPT</h3>
-</td>
-   </tr>
-   <tr>
-      <td>
+<span style="font-size: large">JAVASCRIPT:</span>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a>
