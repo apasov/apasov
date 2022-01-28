@@ -14,9 +14,10 @@
    <tr>
       <td>
 <h3>JAVASCRIPT</h3>
-<br>
-<br>
-<span style="margin-left: 2em">
+</td>
+   </tr>
+   <tr>
+      <td>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a>
@@ -33,22 +34,28 @@ NUXTJS
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
 NODEJS
-</span>
-<br>
-<br>
-<br>
+</td>
+   </tr>
+   <tr>
+      <td>
 <h3>PHP</h3>
-<BR>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer" style="margin-left: 2em"> 
+</td>
+   </tr>
+   <tr>
+      <td>
+<a href="https://laravel.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
 </a>
 LARAVEL
-<BR>
-<BR>
+</td>
+   </tr>
+   <tr>
+      <td>
 <h3>DATABASES</h3>
-<br>
-<br>
-<span style="margin-left: 2em">
+</td>
+   </tr>
+   <tr>
+      <td>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>
@@ -57,14 +64,15 @@ MYSQL
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
 </a>
 MARIADB
-</span>
-<br>
-<br>
-<br>
+</td>
+   </tr>
+   <tr>
+      <td>
 <h3>TESTING AND CI</h3>
-<br>
-<br>
-<span style="margin-left: 2em">
+</td>
+   </tr>
+   <tr>
+      <td>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
 </a>
@@ -81,14 +89,15 @@ PUPPETEER
 <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> 
 </a>
 TRAVIS
-</span>
-<br>
-<br>
-<br>
+</td>
+   </tr>
+   <tr>
+      <td>
 <h3>SERVER ADMINISTRATION</h3>
-<br>
-<br>
-<span style="margin-left: 2em">
+</td>
+   </tr>
+   <tr>
+      <td>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 </a>
@@ -105,13 +114,15 @@ LINUX
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
 </a>
 NGINX
-</span>
-<br>
-<br>
-<br>
+</td>
+   </tr>
+   <tr>
+      <td>
 <h3>OTHER</h3>
-<br>
-<br>
+</td>
+   </tr>
+   <tr>
+      <td>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
          </a>
@@ -124,9 +135,6 @@ NGINX
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
 GIT
-<br>
-<br>
-<br>
 </td>
    </tr>
    <tr>
