@@ -1,8 +1,11 @@
 <h3 align="center">Javascript, PHP and MySQL. </h3>
 <h3 align="center">Full stack on Vue and Laravel. </h3>
 <h3 align="center">Bash scripting and linux administration.</h3>
-<h3 align="left">Stackoverflow profile: <a href="https://stackoverflow.com/users/2796593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2796593" height="30" width="40" /></a></h3>
-
+<h3 align="left">Stackoverflow profile: https://stackoverflow.com/users/2796593/ilyich</h3>
+ <a href="https://stackoverflow.com/users/2796593" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-4b4b-ae24-c94bcccac183.png" />
+ </a>
+<br><br><br>
 
  
 
