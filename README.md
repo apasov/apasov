@@ -13,7 +13,7 @@
    </tr>
    <tr>
       <td>
-<span style="font-size: large">JAVASCRIPT:</span>
+JAVASCRIPT:
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a>
@@ -34,11 +34,7 @@ NODEJS
    </tr>
    <tr>
       <td>
-<h3>PHP</h3>
-</td>
-   </tr>
-   <tr>
-      <td>
+PHP:
 <a href="https://laravel.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
 </a>
@@ -47,11 +43,7 @@ LARAVEL
    </tr>
    <tr>
       <td>
-<h3>DATABASES</h3>
-</td>
-   </tr>
-   <tr>
-      <td>
+DATABASES: 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>
@@ -64,11 +56,7 @@ MARIADB
    </tr>
    <tr>
       <td>
-<h3>TESTING AND CI</h3>
-</td>
-   </tr>
-   <tr>
-      <td>
+TESTING AND CI:
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
 </a>
@@ -89,11 +77,7 @@ TRAVIS
    </tr>
    <tr>
       <td>
-<h3>SERVER ADMINISTRATION</h3>
-</td>
-   </tr>
-   <tr>
-      <td>
+SERVER ADMINISTRATION:
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 </a>
@@ -114,11 +98,7 @@ NGINX
    </tr>
    <tr>
       <td>
-<h3>OTHER</h3>
-</td>
-   </tr>
-   <tr>
-      <td>
+OTHER:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
          </a>
