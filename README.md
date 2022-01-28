@@ -35,11 +35,18 @@
    </tr>
    <tr>
       <td>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+</a>
+PHP
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
 </a>
-Laravel
+LARAVEL
       </td>
+   </tr>
+   <tr>
+      <td><h3 align="left">Related to Laravel:</h3></td>
    </tr>
    <tr>
       <td>
@@ -132,10 +139,6 @@ Laravel
 
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
-</a>
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </a>
 
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> 
