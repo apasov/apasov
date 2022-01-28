@@ -42,10 +42,18 @@ Laravel
       </td>
    </tr>
    <tr>
-      <td></td>
+      <td>
+
+[![image](https://user-images.githubusercontent.com/28765662/151575980-69a92a96-b8ca-4359-a586-e71cf0210e5e.png)](https://github.com/laravel/framework/issues/23750)
+
+</td>
    </tr>
    <tr>
-      <td></td>
+      <td>
+
+[![image](https://user-images.githubusercontent.com/28765662/151576108-2d0a5be8-1403-4168-89a1-50000b81a68e.png)](https://github.com/laravel/docs/pull/4205)
+
+</td>
    </tr>
    <tr>
       <td></td>
