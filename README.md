@@ -13,10 +13,7 @@
    </tr>
    <tr>
       <td>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-JAVASCRIPT
+<h3>JAVASCRIPT</h3>
 <br>
 <br>
 <span style="margin-left: 2em">
@@ -40,11 +37,7 @@ NODEJS
 <br>
 <br>
 <br>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a>
-PHP
-<BR>
+<h3>PHP</h3>
 <BR>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="margin-left: 2em"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
@@ -52,9 +45,7 @@ PHP
 LARAVEL
 <BR>
 <BR>
-<BR>
-<BR>
-DATABASES
+<h3>DATABASES</h3>
 <br>
 <br>
 <span style="margin-left: 2em">
@@ -70,8 +61,7 @@ MARIADB
 <br>
 <br>
 <br>
-<br>
-TESTING AND CI
+<h3>TESTING AND CI</h3>
 <br>
 <br>
 <span style="margin-left: 2em">
@@ -95,8 +85,7 @@ TRAVIS
 <br>
 <br>
 <br>
-<br>
-SERVER ADMINISTRATION
+<h3>SERVER ADMINISTRATION</h3>
 <br>
 <br>
 <span style="margin-left: 2em">
@@ -118,6 +107,9 @@ LINUX
 NGINX
 </span>
 <br>
+<br>
+<br>
+<h3>OTHER</h3>
 <br>
 <br>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -195,7 +187,12 @@ LARAVEL
 </td>
    </tr>
    <tr>
-      <td></td>
+      <td>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+JAVASCRIPT
+</td>
    </tr>
    <tr>
       <td></td>
