@@ -196,11 +196,7 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
         />
       </a>
       HTML
-      <a
-        href="https://www.w3schools.com/css/"
-        target="_blank"
-        rel="noreferrer"
-      >
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
           alt="css3"
@@ -230,10 +226,13 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
     <td><h3 align="left">To W3C drafts:</h3></td>
   </tr>
   <tr>
+    <!-- prettier-ignore -->
     <td>
 
+<!-- prettier-ignore -->
 [![image](https://user-images.githubusercontent.com/28765662/149684207-163306bb-9d03-48a5-9270-48673bb5b7c9.png)](https://github.com/w3c/csswg-drafts/issues/4960)
 
+<!-- prettier-ignore -->
 </td>
   </tr>
   <tr>
@@ -262,17 +261,23 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
     <td><h3 align="left">Related to Laravel:</h3></td>
   </tr>
   <tr>
+    <!-- prettier-ignore -->
     <td>
 
+<!-- prettier-ignore -->
 [![image](https://user-images.githubusercontent.com/28765662/151575980-69a92a96-b8ca-4359-a586-e71cf0210e5e.png)](https://github.com/laravel/framework/issues/23750)
 
+<!-- prettier-ignore -->
 </td>
   </tr>
   <tr>
+    <!-- prettier-ignore -->
     <td>
 
+<!-- prettier-ignore -->
 [![image](https://user-images.githubusercontent.com/28765662/151576108-2d0a5be8-1403-4168-89a1-50000b81a68e.png)](https://github.com/laravel/docs/pull/4205)
 
+<!-- prettier-ignore -->
 </td>
   </tr>
   <tr>
