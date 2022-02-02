@@ -16,7 +16,7 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
   <tr>
     <td><h3>My skills:</h3></td>
   </tr>
-  <tr>
+  <tr id="top">
     <td>
       JAVASCRIPT:
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -26,8 +26,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        VUEJS
       </a>
-      VUEJS
       <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg"
@@ -35,8 +35,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        QUASAR
       </a>
-      QUASAR
       <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
@@ -44,8 +44,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        NUXTJS
       </a>
-      NUXTJS
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -53,22 +53,22 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        NODEJS
       </a>
-      NODEJS
     </td>
   </tr>
   <tr>
     <td>
       PHP:
-      <a href="https://laravel.com/" target="_blank">
+      <a href="#laravel">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
           alt="laravel"
           width="40"
           height="40"
         />
+        LARAVEL
       </a>
-      LARAVEL
     </td>
   </tr>
   <tr>
@@ -81,8 +81,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        MYSQL
       </a>
-      MYSQL
       <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
@@ -90,8 +90,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        MARIADB
       </a>
-      MARIADB
     </td>
   </tr>
   <tr>
@@ -104,8 +104,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        JEST
       </a>
-      JEST
       <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
@@ -113,8 +113,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        CYPRESS
       </a>
-      CYPRESS
       <a
         href="https://github.com/puppeteer/puppeteer"
         target="_blank"
@@ -126,8 +126,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        PUPPETEER
       </a>
-      PUPPETEER
       <a href="https://travis-ci.org" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg"
@@ -135,8 +135,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        TRAVIS
       </a>
-      TRAVIS
     </td>
   </tr>
   <tr>
@@ -153,17 +153,17 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        BASH
       </a>
-      BASH
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <a href="#docker">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
           alt="docker"
           width="40"
           height="40"
         />
+        DOCKER
       </a>
-      DOCKER
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -171,8 +171,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        LINUX
       </a>
-      LINUX
       <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -180,31 +180,31 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        NGINX
       </a>
-      NGINX
     </td>
   </tr>
   <tr>
     <td>
       OTHER:
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <a href="#html">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
           alt="html5"
           width="40"
           height="40"
         />
+        HTML
       </a>
-      HTML
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <a href="#css">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
           alt="css3"
           width="40"
           height="40"
         />
+        CSS
       </a>
-      CSS
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -212,8 +212,8 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
           width="40"
           height="40"
         />
+        GIT
       </a>
-      GIT
     </td>
   </tr>
   <tr>
@@ -221,6 +221,28 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
   </tr>
   <tr>
     <td><h3 align="left">Some of my contributions:</h3></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#top" id="html">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+          alt="html5"
+          width="40"
+          height="40"
+        />
+        HTML
+      </a>
+      <a href="#top" id="css">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+          alt="css3"
+          width="40"
+          height="40"
+        />
+        CSS
+      </a>
+    </td>
   </tr>
   <tr>
     <td><h3 align="left">To W3C drafts:</h3></td>
@@ -237,28 +259,48 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
   </tr>
   <tr>
     <td>
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+      <a href="#top">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
           alt="php"
           width="40"
           height="40"
         />
+        PHP
       </a>
-      PHP
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <a href="#top" id="laravel">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
           alt="laravel"
           width="40"
           height="40"
         />
+        LARAVEL
       </a>
-      LARAVEL
     </td>
   </tr>
   <tr>
     <td><h3 align="left">Related to Laravel:</h3></td>
+  </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/152212431-0d511370-7dfa-47b1-96af-6b9af84fc6ad.png)](https://github.com/laravel-mix/laravel-mix/pull/1200)
+
+<!-- prettier-ignore -->
+</td>
+  </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image]()]()
+
+<!-- prettier-ignore -->
+</td>
   </tr>
   <tr>
     <!-- prettier-ignore -->
@@ -276,6 +318,29 @@ src="https://user-images.githubusercontent.com/28765662/151554354-4db70731-9f73-
 
 <!-- prettier-ignore -->
 [![image](https://user-images.githubusercontent.com/28765662/151576108-2d0a5be8-1403-4168-89a1-50000b81a68e.png)](https://github.com/laravel/docs/pull/4205)
+
+<!-- prettier-ignore -->
+</td>
+  </tr>
+  <tr id="docker">
+    <td>
+      <a href="#top">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+          alt="docker"
+          width="40"
+          height="40"
+        />
+        DOCKER
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/152214242-19e41c52-da22-4bdf-b148-b031040681b6.png)](https://github.com/laradock/laradock/pull/2805)
 
 <!-- prettier-ignore -->
 </td>
