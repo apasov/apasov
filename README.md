@@ -260,8 +260,8 @@ src="https://user-images.githubusercontent.com/28765662/152842201-090cb8d3-5f25-
     <!-- prettier-ignore -->
     <td>
 
-      <!-- prettier-ignore -->
-      [![image](https://user-images.githubusercontent.com/28765662/149684207-163306bb-9d03-48a5-9270-48673bb5b7c9.png)](https://github.com/w3c/csswg-drafts/issues/4960)
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/149684207-163306bb-9d03-48a5-9270-48673bb5b7c9.png)](https://github.com/w3c/csswg-drafts/issues/4960)
 
       <!-- prettier-ignore -->
     </td>
@@ -270,8 +270,8 @@ src="https://user-images.githubusercontent.com/28765662/152842201-090cb8d3-5f25-
     <!-- prettier-ignore -->
     <td>
 
-      <!-- prettier-ignore -->
-      [![image](https://user-images.githubusercontent.com/28765662/152843586-0c2b408e-4286-4e2b-be57-bf467f5d7325.png)](https://github.com/mdn/yari/pull/1522)
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/152843586-0c2b408e-4286-4e2b-be57-bf467f5d7325.png)](https://github.com/mdn/yari/pull/1522)
 
       <!-- prettier-ignore -->
     </td>
@@ -280,8 +280,8 @@ src="https://user-images.githubusercontent.com/28765662/152842201-090cb8d3-5f25-
     <!-- prettier-ignore -->
     <td>
 
-      <!-- prettier-ignore -->
-      [![image](https://user-images.githubusercontent.com/28765662/152843778-278bd73d-bc82-4f5b-b02d-991b8e6d0df7.png)](https://github.com/mdn/data/pull/416)
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/152843778-278bd73d-bc82-4f5b-b02d-991b8e6d0df7.png)](https://github.com/mdn/data/pull/416)
 
       <!-- prettier-ignore -->
     </td>
@@ -315,8 +315,8 @@ src="https://user-images.githubusercontent.com/28765662/152842201-090cb8d3-5f25-
     <!-- prettier-ignore -->
     <td>
 
-      <!-- prettier-ignore -->
-      [![image](https://user-images.githubusercontent.com/28765662/152212431-0d511370-7dfa-47b1-96af-6b9af84fc6ad.png)](https://github.com/laravel-mix/laravel-mix/pull/1200)
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/152212431-0d511370-7dfa-47b1-96af-6b9af84fc6ad.png)](https://github.com/laravel-mix/laravel-mix/pull/1200)
 
       <!-- prettier-ignore -->
     </td>
@@ -325,8 +325,8 @@ src="https://user-images.githubusercontent.com/28765662/152842201-090cb8d3-5f25-
     <!-- prettier-ignore -->
     <td>
 
-      <!-- prettier-ignore -->
-      [![image]()]()
+<!-- prettier-ignore -->
+[![image]()]()
 
       <!-- prettier-ignore -->
     </td>
@@ -335,8 +335,8 @@ src="https://user-images.githubusercontent.com/28765662/152842201-090cb8d3-5f25-
     <!-- prettier-ignore -->
     <td>
 
-      <!-- prettier-ignore -->
-      [![image](https://user-images.githubusercontent.com/28765662/151575980-69a92a96-b8ca-4359-a586-e71cf0210e5e.png)](https://github.com/laravel/framework/issues/23750)
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/151575980-69a92a96-b8ca-4359-a586-e71cf0210e5e.png)](https://github.com/laravel/framework/issues/23750)
 
       <!-- prettier-ignore -->
     </td>
@@ -345,8 +345,8 @@ src="https://user-images.githubusercontent.com/28765662/152842201-090cb8d3-5f25-
     <!-- prettier-ignore -->
     <td>
 
-      <!-- prettier-ignore -->
-      [![image](https://user-images.githubusercontent.com/28765662/151576108-2d0a5be8-1403-4168-89a1-50000b81a68e.png)](https://github.com/laravel/docs/pull/4205)
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/151576108-2d0a5be8-1403-4168-89a1-50000b81a68e.png)](https://github.com/laravel/docs/pull/4205)
 
       <!-- prettier-ignore -->
     </td>
@@ -368,8 +368,8 @@ src="https://user-images.githubusercontent.com/28765662/152842201-090cb8d3-5f25-
     <!-- prettier-ignore -->
     <td>
 
-      <!-- prettier-ignore -->
-      [![image](https://user-images.githubusercontent.com/28765662/152214242-19e41c52-da22-4bdf-b148-b031040681b6.png)](https://github.com/laradock/laradock/pull/2805)
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/152214242-19e41c52-da22-4bdf-b148-b031040681b6.png)](https://github.com/laradock/laradock/pull/2805)
 
       <!-- prettier-ignore -->
     </td>
@@ -391,8 +391,8 @@ src="https://user-images.githubusercontent.com/28765662/152842201-090cb8d3-5f25-
     <!-- prettier-ignore -->
     <td>
 
-      <!-- prettier-ignore -->
-      [![image](https://user-images.githubusercontent.com/28765662/152842893-59737bea-d476-4a6f-8990-84b41f6af540.png)](https://github.com/Tonejs/Tone.js/pull/899)
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/152842893-59737bea-d476-4a6f-8990-84b41f6af540.png)](https://github.com/Tonejs/Tone.js/pull/899)
 
       <!-- prettier-ignore -->
     </td>
