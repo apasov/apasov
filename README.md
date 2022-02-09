@@ -1,6 +1,6 @@
 <h3 align="center">Javascript, PHP and MySQL.</h3>
 <h3 align="center">Full stack on Vue and Laravel.</h3>
-<h3 align="center">Bash scripting and linux administration.</h3>
+<h3 align="center">Bash scripting and Linux administration.</h3>
 <h3 align="left">
   Stackoverflow profile: https://stackoverflow.com/users/2796593/ilyich
 </h3>
