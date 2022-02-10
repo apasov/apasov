@@ -291,6 +291,39 @@
   </tr>
   <tr>
     <td>
+      <a href="#top" id="javascript">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          alt="javascript"
+          width="40"
+          height="40"
+        />
+        JAVASCRIPT
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/152842893-59737bea-d476-4a6f-8990-84b41f6af540.png)](https://github.com/Tonejs/Tone.js/pull/899)
+
+<!-- prettier-ignore -->
+</td>
+  </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image]()]()
+
+<!-- prettier-ignore -->
+</td>
+  </tr>
+  <tr>
+    <td>
       <a href="#top" id="vuejs">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
@@ -311,6 +344,47 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/153448475-b480d8ae-47a0-4a98-8c99-481102d5a02d.png)](https://github.com/quasarframework/quasar-ui-qiconpicker/pull/32)
+
+<!-- prettier-ignore -->
+</td>
+  </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image]()]()
+
+<!-- prettier-ignore -->
+</td>
+  </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image]()]()
+
+<!-- prettier-ignore -->
+</td>
+  </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image]()]()
+
+<!-- prettier-ignore -->
+</td>
+  </tr>
+  
   <tr>
     <td>
       <a href="#top" id="php">
@@ -382,29 +456,6 @@
 
 <!-- prettier-ignore -->
 [![image](https://user-images.githubusercontent.com/28765662/152214242-19e41c52-da22-4bdf-b148-b031040681b6.png)](https://github.com/laradock/laradock/pull/2805)
-
-<!-- prettier-ignore -->
-</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#top" id="javascript">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-        JAVASCRIPT
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <!-- prettier-ignore -->
-    <td>
-
-<!-- prettier-ignore -->
-[![image](https://user-images.githubusercontent.com/28765662/152842893-59737bea-d476-4a6f-8990-84b41f6af540.png)](https://github.com/Tonejs/Tone.js/pull/899)
 
 <!-- prettier-ignore -->
 </td>
