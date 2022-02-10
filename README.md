@@ -312,24 +312,11 @@
     </td>
   </tr>
   <tr>
-    <td><h3 align="left">Related to Laravel:</h3></td>
-  </tr>
-  <tr>
     <!-- prettier-ignore -->
     <td>
 
 <!-- prettier-ignore -->
 [![image](https://user-images.githubusercontent.com/28765662/152212431-0d511370-7dfa-47b1-96af-6b9af84fc6ad.png)](https://github.com/laravel-mix/laravel-mix/pull/1200)
-
-<!-- prettier-ignore -->
-</td>
-  </tr>
-  <tr>
-    <!-- prettier-ignore -->
-    <td>
-
-<!-- prettier-ignore -->
-[![image]()]()
 
 <!-- prettier-ignore -->
 </td>
@@ -420,6 +407,16 @@
   </tr>
   <tr>
     <td></td>
+  </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image]()]()
+
+<!-- prettier-ignore -->
+</td>
   </tr>
   <tr>
     <td></td>
