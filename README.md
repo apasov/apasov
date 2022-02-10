@@ -28,7 +28,7 @@
         />
         JAVASCRIPT
       </a>
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+      <a href="#vuejs">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
           alt="vuejs"
@@ -37,7 +37,7 @@
         />
         VUEJS
       </a>
-      <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
+      <a href="#quasar">
         <img
           src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg"
           alt="quasar"
@@ -291,7 +291,29 @@
   </tr>
   <tr>
     <td>
-      <a href="#top">
+      <a href="#top" id="vuejs">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+          alt="vuejs"
+          width="40"
+          height="40"
+        />
+        VUEJS
+      </a>
+      <a href="#top" id="quasar">
+        <img
+          src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg"
+          alt="quasar"
+          width="40"
+          height="40"
+        />
+        QUASAR
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#top" id="php">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
           alt="php"
