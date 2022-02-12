@@ -390,6 +390,17 @@
 </td>
   </tr>
   <tr>
+    <td><h3 align="left">Examples of my work in Quasar:</h3></td>
+  </tr>
+  <tr>
+    <td>
+      <h4 align="left">An interactive map of a cryptocurrency nodes around the world: <a href="https://nanomap.ddns.net/">https://nanomap.ddns.net/</a></h4>
+      <h4 align="left"><a href="https://apasov.github.io/animatable-properties/">https://apasov.github.io/animatable-properties/</a></h4>
+      <h4 align="left"><a href="https://webanimate.github.io/animate.web/">https://webanimate.github.io/animate.web/</a></h4>
+      <h4 align="left"><a href="https://webanimate.github.io/waapi-timing-properties/">https://webanimate.github.io/waapi-timing-properties/</a></h4>
+    </td>
+  </tr>
+  <tr>
     <!-- prettier-ignore -->
     <td>
 
