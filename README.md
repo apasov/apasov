@@ -226,9 +226,6 @@
     </td>
   </tr>
   <tr>
-    <td></td>
-  </tr>
-  <tr>
     <td><h3 align="left">Some of my contributions:</h3></td>
   </tr>
   <tr>
@@ -401,27 +398,6 @@
     </td>
   </tr>
   <tr>
-    <!-- prettier-ignore -->
-    <td>
-
-<!-- prettier-ignore -->
-[]()
-
-<!-- prettier-ignore -->
-</td>
-  </tr>
-  <tr>
-    <!-- prettier-ignore -->
-    <td>
-
-<!-- prettier-ignore -->
-[]()
-
-<!-- prettier-ignore -->
-</td>
-  </tr>
-  
-  <tr>
     <td>
       <a href="#top" id="php">
         <img
@@ -495,40 +471,6 @@
 
 <!-- prettier-ignore -->
 </td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <!-- prettier-ignore -->
-    <td>
-
-<!-- prettier-ignore -->
-[]()
-
-<!-- prettier-ignore -->
-</td>
-  </tr>
-  <tr>
-    <td></td>
   </tr>
 </table>
 
