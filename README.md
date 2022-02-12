@@ -323,6 +323,31 @@
 </td>
   </tr>
   <tr>
+    <td><h3 align="left">My packages on NPM:</h3></td>
+  </tr>
+  <tr>
+    <!-- prettier-ignore -->
+    <td>
+
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/153706472-8ba67959-4593-4093-8bde-d3809c5a55bb.png)](https://www.npmjs.com/package/animatable-properties)
+
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/153706574-f24ec186-a576-426a-afba-f7b155558f9d.png)](https://www.npmjs.com/package/animate.web)
+
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/153706601-70fe1227-265e-4a83-af1f-bdec92690aee.png)](https://www.npmjs.com/package/waapi-timing-properties)
+
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/153706622-3f41f5a3-2ecf-4ebf-9b97-ca05c37530b2.png)](https://www.npmjs.com/package/mdn-data-animatable)
+
+<!-- prettier-ignore -->
+[![image](https://user-images.githubusercontent.com/28765662/153706648-ca174a12-c68b-4e37-8c26-40300e866c62.png)](https://www.npmjs.com/package/css-tree-animatable)
+
+<!-- prettier-ignore -->
+</td>
+  </tr>
+  <tr>
     <td>
       <a href="#top" id="vuejs">
         <img
