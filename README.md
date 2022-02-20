@@ -5,9 +5,9 @@
   Stackoverflow profile: https://stackoverflow.com/users/2796593/ilyich
 </h3>
 <a href="https://stackoverflow.com/users/2796593" target="blank">
-  <img
+    <img
     align="center"
-    src="https://user-images.githubusercontent.com/28765662/153995943-a40b4b17-9b29-44e7-8db3-191acdfeea30.png"
+    src="https://user-images.githubusercontent.com/28765662/154856694-5b4ca710-5bc7-44ed-ba30-bf844732ea74.png"
   />
 </a>
 <br /><br /><br />
