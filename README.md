@@ -106,7 +106,7 @@
   <tr>
     <td>
       TESTING AND CI:
-      <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+      <a href="#jest">
         <img
           src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
           alt="jest"
@@ -448,6 +448,19 @@
 
 <!-- prettier-ignore -->
 </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#top" id="jest">
+        <img
+          src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+          alt="docker"
+          width="40"
+          height="40"
+        />
+        Jest
+      </a>
+    </td>
   </tr>
   <tr id="docker">
     <td>
