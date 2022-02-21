@@ -462,6 +462,16 @@
       </a>
     </td>
   </tr>
+    <tr>
+    <td><h3 align="left">Some of my tests:</h3></td>
+  </tr>
+  <tr>
+    <td>
+      <h4 align="left">animate.web: <a href="https://github.com/webanimate/animate.web/blob/master/test/index.test.js">Test source</a> <a href="https://app.travis-ci.com/github/webanimate/animate.web">Test results</a></h4>
+      <h4 align="left">animatable-properties: <a href="https://github.com/apasov/animatable-properties/blob/master/test/functions.test.js">Test source</a> <a href="https://app.travis-ci.com/github/apasov/animatable-properties">Test results</a></h4>
+      <h4 align="left">waapi-timing-properties: <a href="https://github.com/webanimate/waapi-timing-properties/blob/master/test/index.test.js">Test source</a> <a href="https://app.travis-ci.com/github/webanimate/waapi-timing-properties">Test results</a></h4>
+    </td>
+  </tr>
   <tr id="docker">
     <td>
       <a href="#top">
