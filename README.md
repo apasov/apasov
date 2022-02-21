@@ -458,7 +458,7 @@
           width="40"
           height="40"
         />
-        Jest
+        JEST
       </a>
     </td>
   </tr>
