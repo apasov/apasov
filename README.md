@@ -7,7 +7,7 @@
 <a href="https://stackoverflow.com/users/2796593" target="blank">
     <img
     align="center"
-    src="https://user-images.githubusercontent.com/28765662/174753547-cd82bdf9-47b8-41d7-83ce-5a997f30c029.png"
+    src="https://user-images.githubusercontent.com/28765662/178971815-68873430-dbb4-42b4-8742-a8bf82164876.png"
   />
 </a>
 <br />
