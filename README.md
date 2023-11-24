@@ -4,14 +4,6 @@
 <h3 align="left">
   Stackoverflow profile: https://stackoverflow.com/users/2796593/ilyich
 </h3>
-<a href="https://stackoverflow.com/users/2796593" target="blank">
-    <img
-    align="center"
-    src="https://user-images.githubusercontent.com/28765662/227765112-22c32bf5-1608-4b74-9bb2-6f0382738958.png"
-  />
-</a>
-<br />
-<br />
 <br />
 
 <table>
